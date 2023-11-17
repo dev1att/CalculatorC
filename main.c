@@ -85,11 +85,7 @@ do{
 
     printf("\n=================== FINISH ===================");
 
-
-
-
-
-
-
     return 0;
 }
+
+// Tive dificuldade com o printf de inicio, se colocava dentro ou fora do do while para manter sempre o loop
